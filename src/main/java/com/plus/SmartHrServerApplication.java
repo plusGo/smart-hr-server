@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @EnableJpaAuditing
 public class SmartHrServerApplication {
 
-    public static void main(String[] args) {
+    public static void mazin(String[] args) {
         SpringApplication.run(SmartHrServerApplication.class, args);
     }
 
